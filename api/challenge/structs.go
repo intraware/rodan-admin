@@ -1,6 +1,6 @@
 package challenge
 
-import "github.com/intraware/rodan-auth/internal/models"
+import "github.com/intraware/rodan-admin/internal/models"
 
 // swagger:model
 type ChallengeResponse struct {
